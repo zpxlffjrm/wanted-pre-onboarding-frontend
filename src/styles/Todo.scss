@@ -1,0 +1,23 @@
+.TodoPageJSX{
+    .input-todo{
+        display: flex;
+        align-items: center;
+
+        gap: 16px;
+
+        .MuiInputBase-root{
+            min-width: 300px;
+        }
+        
+        .MuiFormControl-root{
+            margin:0;
+
+        }
+    }
+
+    button{
+        height: 100%;
+
+  
+    }
+}
